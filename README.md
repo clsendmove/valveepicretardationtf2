@@ -1,5 +1,5 @@
 # What valve did
-1.Implement HWID Banning for TF2. 
+>Implement HWID Banning for TF2. 
 2.Did a game-ban wave.
 3.Implemented a way to detect steam alt accounts
 4.Revived the report system.
