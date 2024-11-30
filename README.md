@@ -1,5 +1,5 @@
 # What valve did
-- Implement HWID Banning for TF2. (this was probably in TF2 a way back)
+- HWID Banning for TF2. (Steam Logs your HWID, Its been known for a long time.)
 - Did a game-ban wave.
 - Implemented a way to detect steam alt accounts
 - Revived the report system.
